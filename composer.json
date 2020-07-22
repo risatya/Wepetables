@@ -1,0 +1,13 @@
+{
+    "name": "wepe/wepetables",
+    "description": "Wepetables will help you to use jQuery Datatables in server side with CodeIgniter4.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bagus WP",
+            "email": "wenpiee@gmail.com"
+        }
+    ],
+    "require": {}
+}
