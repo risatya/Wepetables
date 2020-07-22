@@ -9,5 +9,8 @@
             "email": "wenpiee@gmail.com"
         }
     ],
-    "require": {}
+	"minimum-stability": "stable",
+    "require": {
+        "php" : ">7.2"
+    }
 }
