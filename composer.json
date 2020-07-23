@@ -20,7 +20,7 @@
     },
 	"autoload": {
 		"psr-4": {
-			"wepe\\wepetables\\": "src/"
+			"wepe\\": "src/"
 		}
 	}
 }
