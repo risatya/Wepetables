@@ -17,11 +17,11 @@ This is a wrapper class/library inspired and based on Ignited Datatables found a
 ## **Installation**
 To install the library please type this on your console
 ```
-composer require wepe/wepetables;
+composer require wepe/wepetables
 ```
 if you're using `--no-dev` package on your codeigniter, use this command
 ```
-composer require wepe/wepetables --update-no-dev;
+composer require wepe/wepetables --update-no-dev
 ```
 
 ## **Use Library**
