@@ -1,5 +1,5 @@
 <?php
-namespace wepe\wepetables;
+namespace wepe;
 
 /**
 	* Wepetables
